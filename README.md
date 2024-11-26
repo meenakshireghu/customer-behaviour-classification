@@ -23,4 +23,10 @@ The dataset consists of information from 400 clients of a company, with the foll
 
 - **Deployment**:
   - The best-performing model (SVM) was deployed using the Tkinter library, creating an interactive user interface for real-time customer behavior predictions.
+  - 
+### Screenshot of the Deployment Interface:
+
+![Deployment Interface](deployment.png)
+
+
 
